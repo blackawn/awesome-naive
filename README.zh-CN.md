@@ -47,6 +47,7 @@
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，采用 Vite4、Vue3、TypeScript、JavaScript 构建，支持多种写法和调用，完整的框架体系，响应式中后台管理系统。
 - [Pinx Admin Template](https://1.envato.market/pinx) `付费` - Pinx 是一个使用 Vue 3 + TypeScript 构建的管理模板，对开发人员友好，并使用 Naive UI 和 Tailwind CSS 进行设计。 与 Nuxt 兼容！
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 基于 Vue 3 的管理面板模板 NaiveUI + Tailwind + Pinia + MSW + TS, 设计精美并支持多语言.
+- [Lithe Admin](https://github.com/tenianon/lithe-admin) - 一个轻盈而优雅的后台管理模板，基于 Vue3 + Naive UI + Vite + TypeScript + Pinia 构建，采用 Tailwind CSS Color 配色方案和磨砂纹理质感的设计
 
 ### 使用 NaiveUI 的其他项目
 
