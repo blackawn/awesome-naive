@@ -47,6 +47,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，Using Vite4, Vue3, TypeScript, JavaScript construction, support a variety of writing and call, a complete framework system, responsive background management system
 - [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Admin template built with Vue/Nuxt + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Vue 3 admin panel template based on Vue3 + NaiveUI + Tailwind + Pinia + MSW + TS.
+- [Lithe Admin](https://github.com/tenianon/lithe-admin) - A lightweight and elegant backend management template built using Vue3 + Naive UI + Vite + TypeScript + Pinia, featuring a Tailwind CSS Color color scheme and a frosted texture design
 
 ### Other Projects Using NaiveUI
 
